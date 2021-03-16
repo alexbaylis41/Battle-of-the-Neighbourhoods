@@ -7,15 +7,15 @@ The location information would be useful for anybody perhaps looking to relocate
 
 Skills utilised:
 
-1.Web scraping data using Beautiful soup
+1. Web scraping data using Beautiful soup
 
-2.Data wrangling using pandas dataframes
+2. Data wrangling using pandas dataframes
 
-3.Making calls to the Foursquare api to collect location data
+3. Making calls to the Foursquare api to collect location data
 
-4.One hot encoding data for use in unsupervised learning 
+4. One hot encoding data for use in unsupervised learning 
 
-5.Utilising K-means clustering to segment and compare Toronto neighbourhoods
+5. Utilising K-means clustering to segment and compare Toronto neighbourhoods
 
-6.Folium maps for interacting and displaying clusters clearly
+6. Folium maps for interacting and displaying clusters clearly
 
